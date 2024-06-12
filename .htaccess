@@ -1,0 +1,2 @@
+php_value session.gc_maxlifetime 86400
+AddDefaultCharset UTF-8
